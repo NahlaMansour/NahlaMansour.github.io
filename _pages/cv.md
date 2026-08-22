@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-My C.V can be found at this Link:https://nahlamansour.github.io/files/mansour_cv.pdf
+My CV can be found at [this link](https://nahlamansour.github.io/files/mansour_cv.pdf).
