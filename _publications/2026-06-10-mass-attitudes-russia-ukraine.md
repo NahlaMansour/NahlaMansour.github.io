@@ -1,6 +1,6 @@
 ---
 title: "Mass Attitudes towards Russia's Aggression against Ukraine: Tentative Support for Top-Down Opinion Formation"
-collection: publications
+category: manuscripts
 permalink: /publication/2026-mass-attitudes-russia-ukraine
 excerpt: 'Draws on an original five-country survey and a replication using the Solidarity in Europe dataset to show that partisan alignment and exposure to disinformation explain more of Europeans pro-Kremlin attitudes than direct economic self-interest.'
 date: 2026-06-10
