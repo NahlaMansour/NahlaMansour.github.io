@@ -6,5 +6,7 @@ author_profile: true
 
 ## Jacques Rupnik Prize
 
+(/images/sps-award-website.xfb0d6d95.png)
+
 I am honoured to announce that I have been awarded the Jacques Rupnik Prize for the best paper presented by a doctoral researcher at the EUI
 Workshop on Political Behaviour in Central and Eastern Europe.
